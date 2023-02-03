@@ -1,0 +1,16 @@
+.date {
+    width: 200px;
+    height: 80px;
+    font-size: 30px;
+    margin-left: 45%;
+    margin-top: 300px;
+}
+.hours {
+    color: red;
+}
+.minutes {
+    color: yellowgreen;
+}
+.seconds {
+    color: royalblue;
+}
